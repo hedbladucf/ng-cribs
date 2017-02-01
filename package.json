@@ -1,0 +1,24 @@
+{
+  "name": "ng-cribs",
+  "version": "1.0.0",
+  "description": "Starting to learn AngularJS. Built a real estate listings app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedbladucf/ng-cribs.git"
+  },
+  "author": "Oscar Hedblad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hedbladucf/ng-cribs/issues"
+  },
+  "homepage": "https://github.com/hedbladucf/ng-cribs#readme",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "bootstrap": "~3.3",
+    "angular-ui-bootstrap": "~0.14"
+  }
+}
